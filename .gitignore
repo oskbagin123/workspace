@@ -10,3 +10,6 @@
 # Python outputs
 *.pyc
 __pycache__
+
+# Rust
+*/target/
