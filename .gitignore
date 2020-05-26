@@ -1,0 +1,15 @@
+# Linux general files
+*.swp
+
+# C output files
+*.o
+*.elf
+*.bin
+*.hex
+
+# Python outputs
+*.pyc
+__pycache__
+
+# Rust
+target/
